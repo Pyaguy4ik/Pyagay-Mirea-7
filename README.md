@@ -49,4 +49,4 @@ go get github.com/redis/go-redis/v9
 ![Get](img/get.png)
 
 ## Запрос /ttl
-![ttl](img/ttl_1).png
+![ttl](img/ttl_1.png)
